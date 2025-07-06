@@ -50,8 +50,9 @@ Hi! I'm **Dareen Gayle V. Yadao**, an aspiring IT professional and cybersecurity
 ## 📜 Related Certifications
 
 - ✅ **Computer Security Incident Handling Level I** *(2025, Seagem)*
-- - ✅ **Google Cybersecurity Certificate** *(2023, Coursera)*
+- ✅ **Google Cybersecurity Certificate** *(2023, Coursera)*
 - ✅ **AWS re/Start Training** *(2023, Amazon Web Services)*
+- ✅ **Computer Systems Servicing NC II** *(2019, Mary Chiles College)*
 
 ---
 
